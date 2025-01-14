@@ -10,7 +10,10 @@
 
 ## Demo 效果演示
 
-<video src="README.assets/MagicXiyou_Demo_v1.0.mp4"></video>
+点击如下图片或 [此链接](README.assets/MagicXiyou_Demo_v1.0.mp4)，即可播放Demo视频：
+
+[![MagicXiyou_Preview_v1.0](README.assets/MagicXiyou_Preview_v1.0.png)](README.assets/MagicXiyou_Demo_v1.0.mp4)
+
 ## Lincese 开源声明
 
 ### 程序主体：完全开源
