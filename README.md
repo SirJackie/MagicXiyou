@@ -17,7 +17,7 @@
 或者直接播放视频（部分情况不支持）：
 
 <video src="README.assets/MagicXiyou_Demo_v1.0.0.mp4"></video>
-## Lincese 开源声明
+## License 开源声明
 
 ### 程序主体：完全开源
 
